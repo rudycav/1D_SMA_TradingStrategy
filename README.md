@@ -6,16 +6,29 @@
 
 ![](ss/AAPL.JPG)
 
+![](ss/AAPL_gains.JPG)
+
 ![](ss/AMC.JPG)
+
+![](ss/AMC_gains.JPG)
 
 ![](ss/AMD.JPG)
 
+![](ss/AMD_gains.JPG)
+
 ![](ss/AMZN.JPG)
+
+![](ss/AMZN_gains.JPG)
 
 ![](ss/GME.JPG)
 
+![](ss/GME_gains.JPG)
+
 ![](ss/NFLX.JPG)
+
+![](ss/NFLX_gains.JPG)
 
 ![](ss/TSLA.JPG)
 
-![](ss/TWTR.JPG)
+![](ss/TSLA_gains.JPG)
+
