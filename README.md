@@ -33,7 +33,7 @@
 ![](TradingStrategy/screenshots/GME.JPG)
 
 
-![](TradingStrategy/screenshots/gmeSMA.JPG) ![](TradingStrategy/screenshots/gmeEMA.JPG)
+![](TradingStrategy/screenshots/gmaSMA.JPG) ![](TradingStrategy/screenshots/gmaEMA.JPG)
 
 - NFLX
 
