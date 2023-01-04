@@ -4,6 +4,8 @@
 
 - Although EMA is optimal for short term trades, SMA become more reliable by confirming trends for mid - longer positions
 
+- Percentage gains/ losses are calculated by subtracting the most recent Buy price from Sell price
+
 <br />
 
 - AAPL
