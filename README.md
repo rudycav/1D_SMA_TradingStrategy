@@ -5,56 +5,44 @@
 - Although EMA is optimal for short term trades, SMA become more reliable by confirming trends for mid - longer positions
 
 - AAPL
-![](ss/AAPL.JPG)
+![](TradingStrategy/screenshots/AAPL.JPG)
 
 - AAPL Performance
 
-![](ss/AAPL_gains.JPG) ![](ss/AAPL_gains.JPG)
+![](TradingStrategy/screenshots/aaplSMA.JPG) ![](TradingStrategy/screenshots/aaplEMA.JPG)
 
-- AMC
-![](ss/AMC.JPG)
-
-- AMC Performance
-
-![](ss/AMC_gains.JPG)
 
 - AMD
 
-![](ss/AMD.JPG)
+![](TradingStrategy/screenshots/AMD.JPG)
 
 - AMD Performance
 
-![](ss/AMD_gains.JPG)
+![](TradingStrategy/screenshots/amdSMA.JPG) ![](TradingStrategy/screenshots/amdEMA.JPG)
 
 - AMZN
 
-![](ss/AMZN.JPG)
+![](TradingStrategy/screenshots/AMZN.JPG)
 
 - AMZN Performance
 
-![](ss/AMZN_gains.JPG)
+![](TradingStrategy/screenshots/amznSMA.JPG) ![](TradingStrategy/screenshots/amznEMA.JPG)
 
 - GME
 
-![](ss/GME.JPG)
+![](TradingStrategy/screenshots/GME.JPG)
 
 - GME Performance
 
-![](ss/GME_gains.JPG)
+![](TradingStrategy/screenshots/gmeSMA.JPG) ![](TradingStrategy/screenshots/gmeEMA.JPG)
 
 - NFLX
 
-![](ss/NFLX.JPG)
+![](TradingStrategy/screenshots/NFLX.JPG)
 
 - NFLX Performance
 
-![](ss/NFLX_gains.JPG)
+![](TradingStrategy/screenshots/nflxSMA.JPG) ![](TradingStrategy/screenshots/nflxEMA.JPG)
 
-- TSLA
 
-![](ss/TSLA.JPG)
-
-- TSLA Performance
-
-![](ss/TSLA_gains.JPG)
 
