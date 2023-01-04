@@ -4,11 +4,12 @@
 
 - Although EMA is optimal for short term trades, SMA become more reliable by confirming trends for mid - longer positions
 
+<br />
+
 - AAPL
 
 ![](TradingStrategy/screenshots/AAPL.JPG)
 
-- AAPL Performance
 
 ![](TradingStrategy/screenshots/aaplSMA.JPG) ![](TradingStrategy/screenshots/aaplEMA.JPG)
 
@@ -17,7 +18,6 @@
 
 ![](TradingStrategy/screenshots/AMD.JPG)
 
-- AMD Performance
 
 ![](TradingStrategy/screenshots/amdSMA.JPG) ![](TradingStrategy/screenshots/amdEMA.JPG)
 
@@ -25,7 +25,6 @@
 
 ![](TradingStrategy/screenshots/AMZN.JPG)
 
-- AMZN Performance
 
 ![](TradingStrategy/screenshots/amznSMA.JPG) ![](TradingStrategy/screenshots/amznEMA.JPG)
 
@@ -33,7 +32,6 @@
 
 ![](TradingStrategy/screenshots/GME.JPG)
 
-- GME Performance
 
 ![](TradingStrategy/screenshots/gmeSMA.JPG) ![](TradingStrategy/screenshots/gmeEMA.JPG)
 
@@ -41,7 +39,6 @@
 
 ![](TradingStrategy/screenshots/NFLX.JPG)
 
-- NFLX Performance
 
 ![](TradingStrategy/screenshots/nflxSMA.JPG) ![](TradingStrategy/screenshots/nflxEMA.JPG)
 
