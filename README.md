@@ -5,6 +5,7 @@
 - Although EMA is optimal for short term trades, SMA become more reliable by confirming trends for mid - longer positions
 
 - AAPL
+
 ![](TradingStrategy/screenshots/AAPL.JPG)
 
 - AAPL Performance
