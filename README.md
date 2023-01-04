@@ -5,11 +5,11 @@
 - Although EMA is optimal for short term trades, SMA become more reliable by confirming trends for mid - longer positions
 
 - AAPL
-![](ss/AAPL.JPG) ![](ss/AAPL.JPG)
+![](ss/AAPL.JPG)
 
 - AAPL Performance
 
-![](ss/AAPL_gains.JPG)
+![](ss/AAPL_gains.JPG) ![](ss/AAPL_gains.JPG)
 
 - AMC
 ![](ss/AMC.JPG)
