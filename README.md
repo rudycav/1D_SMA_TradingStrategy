@@ -16,12 +16,6 @@
 ![](TradingStrategy/screenshots/aaplSMA.JPG) ![](TradingStrategy/screenshots/aaplEMA.JPG)
 
 
-- AMD
-
-![](TradingStrategy/screenshots/AMD.JPG)
-
-
-![](TradingStrategy/screenshots/amdSMA.JPG) ![](TradingStrategy/screenshots/amdEMA.JPG)
 
 - AMZN
 
@@ -30,19 +24,7 @@
 
 ![](TradingStrategy/screenshots/amznSMA.JPG) ![](TradingStrategy/screenshots/amznEMA.JPG)
 
-- GME
 
-![](TradingStrategy/screenshots/GME.JPG)
-
-
-![](TradingStrategy/screenshots/gmaSMA.JPG) ![](TradingStrategy/screenshots/gmaEMA.JPG)
-
-- NFLX
-
-![](TradingStrategy/screenshots/NFLX.JPG)
-
-
-![](TradingStrategy/screenshots/nflxSMA.JPG) ![](TradingStrategy/screenshots/nflxEMA.JPG)
 
 
 
